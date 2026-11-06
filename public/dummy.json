@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Madina Rahimova",
+      "role": "Siyosiy sharhlovchi",
+      "avatar": "https://i.pravatar.cc/96?img=47"
+    },
+    {
+      "id": 2,
+      "name": "Javohir Karimov",
+      "role": "Iqtisodiyot muxbiri",
+      "avatar": "https://i.pravatar.cc/96?img=12"
+    },
+    {
+      "id": 3,
+      "name": "Aziza Ismoilova",
+      "role": "Jamiyat bo‘limi muharriri",
+      "avatar": "https://i.pravatar.cc/96?img=44"
+    }
+  ]
+}
